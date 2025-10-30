@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotify-madhu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0938501a-18b7-4a49-ba38-4e30a3756883",
+		"tenantId": "62fab54b-d104-458b-9b81-0eec2df9efdd"
+	}
+}
