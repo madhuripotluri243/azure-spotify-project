@@ -8,6 +8,11 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
+					"items": {
+						"value": "@pipeline().parameters.loop_input",
+						"type": "Expression"
+					},
+					"isSequential": true,
 					"activities": [
 						{
 							"name": "AzureSQLToLake",
@@ -260,7 +265,7 @@
 														"value": "@{item().table}_cdc",
 														"type": "Expression"
 													},
-													"file": "cdc.json"
+													"file": "empty.json"
 												}
 											}
 										],
