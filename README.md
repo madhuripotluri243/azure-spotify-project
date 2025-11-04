@@ -22,6 +22,11 @@
 
 <img width="1845" height="970" alt="image" src="https://github.com/user-attachments/assets/a00a7be5-dad1-41f8-b69b-5b4ca81d4a72" />
 
+# LogicAPP image
+
+<img width="1888" height="942" alt="image" src="https://github.com/user-attachments/assets/503789e7-237f-4313-a2ff-04908ebae3fd" />
+
+
 
 
 
